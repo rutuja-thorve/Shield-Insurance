@@ -5,7 +5,7 @@ Shield Insurance is a leading insurance provider operating in key Indian cities,
 The company is focused on leveraging data-driven insights to enhance its decision making processes. 
 
 ### Live Dashboard Link 
-https://app.powerbi.com/view?r=eyJrIjoiN2JkMzVkMTYtNGVjYi00NDM2LWI5MmUtYmRlNjhmZTk0YmE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+https://app.powerbi.com/view?r=eyJrIjoiN2JkMzVkMTYtNGVjYi00NDM2LWI5MmUtYmRlNjhmZTk0YmE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=73cf877d0357154d02ae
 
 ### Home Page:
 A landing page to navigate across various pages.
